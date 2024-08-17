@@ -9,7 +9,7 @@
 
 A curated list of awesome things related to Vue 3
 
-- [Awesome Vue 3 ![Awesome](https://github.com/sindresorhus/awesome)](#awesome-vue-3-)
+- [Awesome Vue 3 ](#awesome-vue-3-)
 - [Resources](#resources)
   - [Official](#official)
   - [Related awesome lists](#related-awesome-lists)
@@ -136,6 +136,7 @@ A curated list of awesome things related to Vue 3
 - [vuehooks](https://github.com/jsbroks/vuehooks) - 🌟 Collection of utility composition functions for Vue
 - [vue-cookie-next](https://github.com/anish2690/vue-cookie-next) - 🍪 A vue 3 plugin for handling browser cookies with typescript support.
 - [vue-quill](https://github.com/vueup/vue-quill) - ✒️📝 A Vue 3 rich text editor component based on Quill Editor. See a [Live Demo](https://vueup.github.io/vue-quill/#demo).
+- [umo editor](https://github.com/umodoc/editor) - 📝 Umo Editor is an open-source document editor, based on Vue3 and Tiptap. Visit [Playground](https://demo.umodoc.com/editor?lang=en-US) for a fast experience.
 - [vue-draggable-next](https://github.com/anish2690/vue-draggable-next) - 🧱 A Vue 3 drag-and-drop component based on Sortable.js.
 - [vue-smooth-dnd](https://github.com/kutlugsahin/vue-smooth-dnd) - A fast and lightweight drag&drop, sortable library for Vue.js with many configuration options covering many d&d scenarios.
 - [vue-float-menu](https://github.com/prabhuignoto/vue-float-menu) - Customizable Floating Menu for Vue 3
@@ -256,7 +257,6 @@ A curated list of awesome things related to Vue 3
 - [Sneat Free Vuetify VueJS Admin Template](https://github.com/themeselection/sneat-vuetify-vuejs-admin-template-free) - A Production ready, carefully crafted, most comprehensive Opensource & Free Vuejs admin template.
 - [Vue3 Atomic Design](https://github.com/alexander-elgin/vue3-atomic-design) - A Vue3 boilerplate based on atomic design methodology
 - [Sneat-free-vuetify-nuxtjs-admin-template](https://github.com/themeselection/sneat-vuetify-nuxtjs-admin-template-free) - Open Source NuxtJS admin template based on latest Vuetify, NuxtJS 3, Vue 3 & Typescript for developing responsive web apps with ease.
-
 
 ## Tools
 
