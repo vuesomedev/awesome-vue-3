@@ -138,6 +138,7 @@ A curated list of awesome things related to Vue 3
 - [vue-quill](https://github.com/vueup/vue-quill) - ✒️📝 A Vue 3 rich text editor component based on Quill Editor. See a [Live Demo](https://vueup.github.io/vue-quill/#demo).
 - [vue-draggable-next](https://github.com/anish2690/vue-draggable-next) - 🧱 A Vue 3 drag-and-drop component based on Sortable.js.
 - [vue-smooth-dnd](https://github.com/kutlugsahin/vue-smooth-dnd) - A fast and lightweight drag&drop, sortable library for Vue.js with many configuration options covering many d&d scenarios.
+- [vue-tree-dnd](https://github.com/jcuenod/vue-tree-dnd) - A sortable drag-n-drop tree structure for Vue3 with no dependencies.
 - [vue-float-menu](https://github.com/prabhuignoto/vue-float-menu) - Customizable Floating Menu for Vue 3
 - [vue-toastification](https://github.com/Maronato/vue-toastification) - 🍞 Light, easy, and beautiful Toasts for Vue 2 and 3.
 - [vue3-scroll-picker](https://github.com/HJ29/vue3-scroll-picker) - A scroll picker component for Vue 3.
